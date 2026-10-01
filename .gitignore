@@ -1,0 +1,16 @@
+# Ambiente virtual
+.venv/
+venv/
+
+# Arquivos gerados pelo Python e pelos testes
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Configurações locais e arquivos temporários
+.vscode/
+.idea/
+*.log
+.DS_Store
+Thumbs.db
+desktop.ini
